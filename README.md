@@ -1,2 +1,1 @@
-
-
+FocusTime is a app that helps you to focus by setting a Timer. I built this app while I was learning React-native on Udemy. link: https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/learn/lecture/24415950
